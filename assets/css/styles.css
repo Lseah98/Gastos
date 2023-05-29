@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: darkslategray;
+}
+.fondo-titulo{
+    background-color: darkcyan;
+}
+.fondo-operadores{
+    background-color: darkgray;
+}
+.fondo-tabla{
+    background-color: darkgrey;
+}
