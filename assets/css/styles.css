@@ -11,3 +11,6 @@ body{
 .fondo-tabla{
     background-color: darkgrey;
 }
+.delete-icon:hover {
+    cursor: pointer;
+  }
